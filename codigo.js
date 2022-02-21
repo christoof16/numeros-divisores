@@ -83,7 +83,7 @@ while(salir != "salir" && salir != "SALIR"){
         document.write(totalDivision+"<br><br>");
     }
     else{
-        console.log("opcion no disponible");
+        console.log("opcion no disponible escriba un valor correcto");
         document.write("opcion no disponible<br>");
     }
     
